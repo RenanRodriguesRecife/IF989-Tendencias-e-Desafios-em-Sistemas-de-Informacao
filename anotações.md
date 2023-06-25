@@ -23,6 +23,9 @@ São um conjuntos de práticas que vão desdo desing até a manutenção da apli
 O sistema imunológico mais robusto, proteje o sistema digital contra qualquer tipo de anomalias, ataques e deixa a recuperação do serviço mais rápida caso ele venha cair.
 Ele reduz o risco do sistema cair e caso ele venha cair, o serviço está montado de um jeito que faz ele voltar ao ar mais rápido.
 
+Quantos aspectos deve ser observados para alcançar um tipo de imunidade. Vai de pessoas (treinamento,capacitação) até mundança de processos. É uma observação contínua e tem que observar tudo o tempo inteiro. Incluse o uso da inteligência artificial para ajudar no monitoramento.
+Algo muito relevante na empresa com sistemas altamente críticos. Empresas aéreas, bancos...
+
 ### Principais Stakeholders da área
 
 ● Organizações (organizações que tentam desenvolver aplicações mais resilientes para melhorar a satisfação dos usuários)
@@ -113,4 +116,35 @@ Referências:
 ● https://www.gartner.com/en/articles/what-is-a-digital-immune-system-and-why-does-it-matter
 ● Gartner’s Top 10 Tech Trends for 2023 | Gartner IT Symposium/XPO Full Keynote
 
+Segurança é um tema que sempre estará em enfase
+A única certesa que tem é que não existe segurança 100%
+
+Alguns temas que poderiam ser visto na sergunda parte da disciplina
+- Ataques a sistemas da web e soluções a esses, um panorama dos ultimos 5 anos (quais as tecnologias...)
+verificar as informações de mercado (relatório do Gartner) com as informações científicas
+- elementos envolvidos pelo sistema digital imuno (atores, processo e tecnologia) (o que é o sistema digital imuno?)
+- Desafios na construção nos sistema digitais imuno, um panoram dos ultimos 5 anos
+
 ## Metaverso
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
