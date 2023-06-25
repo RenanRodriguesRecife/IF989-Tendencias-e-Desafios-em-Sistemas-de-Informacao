@@ -127,7 +127,34 @@ verificar as informações de mercado (relatório do Gartner) com as informaçõ
 
 ## Metaverso
 
+### O que é Metaverso?
 
+Definição 1: A nova camada da realidade que integra o mundo real e o virtual
+
+Definição 2: Um ambiente virtual coletivo que as pessoas possam interagir entre si e com marcas
+
+Esse termo já surgiu a mais de 30 anos. Em 1902 quando Bill Dirson escreveu o termo no livro slow crash e apareceu novamente no romance webplay1 em 2000.
+
+Houveram algumas tentativas de criar o metarverso uma delas foi o Second life. Mas ele não conseguiu interagir o mundo real e o mundo real.
+
+### Principais Stakeholders da área
+
+- BigTechs (que foram as maiores entusiastas nessa tecnologia): Meta (antigo facebook)
+- Desenvolvedores e criadores de conteúdo. (vão implementar, criar, alimentar experiências no ambiente do metaverso)
+- Usuários e comunidades (as pessoas que participam e interagem com o ambiente)
+- Marcas (oportunidade de negócio no ambiente virtual)
+- Sociedade (atuar na regulamentação)
+
+A idéia seria diminuir a barreira entre os usuários e as máquinas. QUe o usuário podesse viver virtualmente uma experiência de compra tão completa quanto seria uma experiência no mundo real. 
+
+E no futuro que o metaverso estaria impactando a sociedade. 
+
+- Mudanças nos processos de negócios e organizações
+● Tecnologias Envolvidas
+● Casos de uso
+● Metaverso se relaciona com Tecnologia Sustentável?
+● Principais Desafios
+● Conclusões
 
 
 
