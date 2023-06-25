@@ -149,7 +149,15 @@ A idéia seria diminuir a barreira entre os usuários e as máquinas. QUe o usu�
 
 E no futuro que o metaverso estaria impactando a sociedade. 
 
-- Mudanças nos processos de negócios e organizações
+
+
+### Mudanças nos processos de negócios e organizações
+
+-
+-
+-
+- 
+
 ● Tecnologias Envolvidas
 ● Casos de uso
 ● Metaverso se relaciona com Tecnologia Sustentável?
