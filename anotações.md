@@ -86,7 +86,7 @@ Use Case: Klaveness Ship Management
 
 usaram da inteligencia artificial para fazer automação da gerencia de dados. Que ajudou a tomar decisões mais rápidas.
 
-<img src=".assets/observability.png">
+<img src=".assets/observability.jpg">
 
 Também é usado na agricutura. Para ter melhor usabilidade dos dados
 
