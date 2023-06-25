@@ -75,18 +75,42 @@ https://www.youtube.com/watch?v=wup0DCIluvc (3:35 - 6:02)
 
 Como a observability é importante
 
+A observação dos dados trouse muito sucesso. Para entender o input e output dos dados.
+
 ### Digital Immune Systems se relaciona com Tecnologia Sustentável?
 
 Use Case: Klaveness Ship Management
 
+usaram da inteligencia artificial para fazer automação da gerencia de dados. Que ajudou a tomar decisões mais rápidas.
 
+<img src=".assets/observability.png">
+
+Também é usado na agricutura. Para ter melhor usabilidade dos dados
 
 ### Principais Desafios
 
+É uma prática de funciona melhor em modelos de negócios mais estáveis e com menos incertesas. Em startups é muito difícil implementar pois não existe muitas certesas.
 
+Outra grande desesafio é a grande quantidade de dados. Que fica difícil intender quais os dados são realmente importantes para os objetivos.
+
+● Ambiente de incertezas
+● Manutenção
+● Grande quantidade de dados
+● Vulnerabilidades
+● Dependências de terceiros
+
+Grande problema de distribuir as responsabilidades para terceiros, esses terceiros tem responsabilidadades distribuidas para software de terceiros também que acaba caindo em uma cadeia de responsabilidade. É preciso escolher um softwere de terceiro bem qualificado para não afetar o sistema.
+
+<img src=".assets/pilares.jpg">
 
 ### Conclusões
 
+Digital Immune System (DIS) vem sendo fundamental para o funcionamento das organizações no cenário atual de mercado. Melhorando a experiência do consumidor pela construção de um sistema seguro e automatizado, sendo mais resistente a falhas.
 
+Referências:
+
+● https://www.gartner.com/en/articles/what-is-a-digital-immune-system-and-why-does-it-matter
+● https://www.gartner.com/en/articles/what-is-a-digital-immune-system-and-why-does-it-matter
+● Gartner’s Top 10 Tech Trends for 2023 | Gartner IT Symposium/XPO Full Keynote
 
 ## Metaverso
