@@ -25,16 +25,45 @@ Ele reduz o risco do sistema cair e caso ele venha cair, o serviço está montad
 
 ### Principais Stakeholders da área
 
-Mudanças nos processos de negócios e organizações
+● Organizações (organizações que tentam desenvolver aplicações mais resilientes para melhorar a satisfação dos usuários)
 
-Tecnologias Envolvidas
+● Desenvolvedores e designers (responsáveis por implementar as práticas e os designesrs que fazem o fluxo mais fechado para usuários terem uma nevegação melhor)
 
-Casos de uso
+● Equipes de segurança (vão indentificar as possíveis ameaças e tentar proteger o sistemas contra os tipos de ameças)
 
-Digital Immune Systems se relaciona com Tecnologia Sustentável?
+● Gerentes de TI (guiando as estratégias, gerenciando os recursos para imunisação do sistema)
 
-Principais Desafios
+● Usuários (destinatários finais, por conta deles está envolvido a melhoria contínua do sistema)
 
-Conclusões
 
-Metaverso
+
+### Tecnologias Envolvidas
+
+As tecnologias trabalham juntas: bloquear, isolar, remover ameaças. E fazer qualquer condição de segurança necessaria. Ingloba práticas tanto no desenvolvimento, no design, na automação...
+
+● Hardware e softwares
+● Firewalls
+● Criptografia
+● Monitoramento de rede e tráfego
+● Sistemas de detecção e prevenção de intrusões (IDS/IPS)
+● Inteligência artificial e aprendizado de máquina
+
+### Mudanças nos processos de negócios e organizações
+
+muitas não são coisas muito inovadoras, porém não são tão dinfudidas e muitas vezes as empresas não se preocupam tanto com isso. Quando se preocupa com uma acabam negligenciando a outra.
+
+● Implementação de políticas e treinamento de segurança
+● Monitoramento constante e análise de ameaças
+● Tecnologias e práticas para experiência do usuário melhorada
+● Fortalecimento de sistemas e proteção contra falhas
+● Resposta rápida a incidentes e atualizações de segurança
+
+### Casos de uso
+
+### Digital Immune Systems se relaciona com Tecnologia Sustentável?
+
+### Principais Desafios
+
+### Conclusões
+
+## Metaverso
