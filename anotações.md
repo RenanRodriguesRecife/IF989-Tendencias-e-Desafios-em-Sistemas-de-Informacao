@@ -149,19 +149,60 @@ A idéia seria diminuir a barreira entre os usuários e as máquinas. QUe o usu�
 
 E no futuro que o metaverso estaria impactando a sociedade. 
 
-
-
 ### Mudanças nos processos de negócios e organizações
 
--
--
--
-- 
+- Experiência com as marcas, experiência imerciva
+- Publicidade e Marketing com marcas (criar campanhas publicitárias dentro desses ambientes)
+- Colaboração e trabalho remoto
+- Perda e oferta de serviços
+- A inovação e criação de conteúdo (liberdade criativa ilimitada)
 
-● Tecnologias Envolvidas
-● Casos de uso
-● Metaverso se relaciona com Tecnologia Sustentável?
-● Principais Desafios
+### Tecnologias Envolvidas
+
+- Realidade Virtual (experiência imercivas)
+- Realidade Aumentada (adiciona camada entre o mundo virtual e físico)
+- blockchain, criptomoedas e NFT (moedas usadas para criar economia virtual)
+
+### Metaverso se relaciona com Tecnologia Sustentável?
+
+- Infraestrutura verde. (o centro de processamento usando energias renováveis)
+- Redução de deslocamento (redução de impacto de gases de transporte)
+- Consumo virtual (reduz a produçã de vários ninchos... uso de papel, ambalagens, nota fiscal...)(a unificação das marcas no ambiente virutla e a relação fluida do cliente com a marca seira facilitado.
+- educação e consientização ambiental
+- inovação e colaboração sustentável (novas estratégias e novos modelos de negócio
+
+### Casos de uso
+
+Meta
+
+Não é um case de sucesso. Todo investimento não foi bom
+o facebook tentou desenvolver aplicativos.
+
+Quanado existe o hype de uma tecnologia lá na frente vai encontrar desafios para tonar a tecnologia acessível para um público
+
+Tecnologia muito caro
+
+A maneira de como era vendido o metaverso era como se tudo seria fluido e rápido. Mas na prática não era assim.
+
+IOT não está disponível na casa de qualquer pessoa de classe média.
+
+a evolução da tecnologia não está acompanhando as idéias do dono do facebook
+
+### Principais Desafios
+
+- Quais eram as possibilidades do metaverso?
+- Difícil encontrar direcionamento. Na realidade as pessoas não usam da forma que é idealizado para usar o app.
+- Todos os desafios encontrados não trouze uma boa avaliação dos investidores
+- As outras empresas não estão focadas em RV mas sim em AI.
+
+- Fata de infraestrutra tecnológica (cara e de difício acessO)
+- as ferramentas que existe hoja não são o suficiente para acompanhar a idéia que foi idealizada do metaverso
+- Não tem como fazer a Interação com outros metaversos de outras empresas (os ambientes virtuais de outras empresas são complementamentes independêntes. Desafio de definir os padrões que cada metaverso vai ter.
+- Privacidade e segurança. Os problemas que sem tem nas redes sociais será amplificada ao máximo.
+- Problema na adoção e compreenção dos benefícios e propostas de valor da tecnologia.
+- 
+58:00
+
 ● Conclusões
 
 
