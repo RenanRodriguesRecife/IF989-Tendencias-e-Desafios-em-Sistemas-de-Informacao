@@ -195,16 +195,15 @@ a evolução da tecnologia não está acompanhando as idéias do dono do faceboo
 - Todos os desafios encontrados não trouze uma boa avaliação dos investidores
 - As outras empresas não estão focadas em RV mas sim em AI.
 
-- Fata de infraestrutra tecnológica (cara e de difício acessO)
+- Fata de infraestrutra tecnológica (cara e de difício acesso)
 - as ferramentas que existe hoja não são o suficiente para acompanhar a idéia que foi idealizada do metaverso
-- Não tem como fazer a Interação com outros metaversos de outras empresas (os ambientes virtuais de outras empresas são complementamentes independêntes. Desafio de definir os padrões que cada metaverso vai ter.
+- interoperabilidade: Não tem como fazer a Interação com outros metaversos de outras empresas (os ambientes virtuais de outras empresas são complementamentes independêntes). Desafio de definir os padrões que cada metaverso vai ter.
 - Privacidade e segurança. Os problemas que sem tem nas redes sociais será amplificada ao máximo.
-- Problema na adoção e compreenção dos benefícios e propostas de valor da tecnologia.
-- 
-58:00
-
-● Conclusões
-
+- Problemas de direitos autorais de conteúdo criativo gerando dentro dos ambientes.
+- Problema na adoção, consiencia e compreenção dos benefícios e propostas de valor da tecnologia. Ainda está no mundo da idéias e as pessoas não estão seguras em usar.
+- Impacto psicológico nas pessoas. Pessoas que vão deixar de viver no mundo real para viver no mundo virtual.
+- necessidades de soluções mais acessíveis
+- Pontencial para futuras melhorias (integração com diversas tecnologias disrupitivas)(melhor rede de conectividade e internet das coisas)
 
 
 
