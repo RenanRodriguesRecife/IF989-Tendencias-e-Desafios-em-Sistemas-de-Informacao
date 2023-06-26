@@ -205,9 +205,16 @@ a evolução da tecnologia não está acompanhando as idéias do dono do faceboo
 - necessidades de soluções mais acessíveis
 - Pontencial para futuras melhorias (integração com diversas tecnologias disrupitivas)(melhor rede de conectividade e internet das coisas)
 
+Hoje as empresas estão procurando disassociar o máximo o nome realidade virtual por conta do receio das pessoas. A apple chama de computação espacial
 
-
-
+Sujestão de temas
+- Evolução do Metaverso desde 2018
+- O impacto no metaverso nos processos de negócios e organizações
+- O metaverso e sustentabilidade
+- O metaverso nas organizações impactos e desafios
+- O uso do metaverso só na educação
+- O uso do metaverso no trabalho remoto (tendencias e desafios)
+- Os desafios do uso do metaverso nas organizações
 
 
 
