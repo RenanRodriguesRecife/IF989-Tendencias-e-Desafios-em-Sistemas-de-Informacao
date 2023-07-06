@@ -217,16 +217,68 @@ Sujestão de temas
 - Os desafios do uso do metaverso nas organizações
 
 
+## SuperApps
 
+### O que é SuperApp
 
+São aplicativos multifunções, ou seja, uma única plataforma com uma variedade de serviços oferecidos.
 
+SuperApps podem ter dentro dele: redes sociais, chamadas, pagamentos onlines, chatting, compras online, delivery de comida, pagamentos, taxi... várias funções dentro de um aplicativo.
 
+### Stakeholders
 
+- Organizações / Fornecedores de tecnologia (empresas que vão oferencer banco de dados, apis, plataformas...)
 
+- Clientes das organizações (usuários)
 
+- Equipes de tecnologia (desenvolvedores)
 
+### Mudanças nos processos de negócios e organizações
 
+- Integração de serviços
 
+- Mudança nos modelos de negócio existentes
 
+- Concorrência intensificada
 
+- Personalização e análise de dados (coletam muitos dados dos usuários)
 
+- Impulso para a transformação digital
+
+### Tecnologias Envolvidas
+
+- Platform as a service (PaaS) fornecendo uma solução de plataforma em nuvem
+
+- Frameworks Front-end que permitem a implantação de miniaplicativos em aplicativos web e mobile
+
+- Plataformas de desenvolvimento de Multiexperiência (MX) (desenvolve uma vez e é portados para web, mobile, vr...)
+
+- Plataformas de aplicativos de Low-Code (LCAPs)
+
+- Development services providers
+
+### Casos de uso (WeChat)
+
+https://www.youtube.com/watch?v=vGMNNAntOoE
+
+WeChat começou como um clone de whatsapp e depois ganhou mais funcionalidades: pagamentos, rede social...
+
+- 1 bilhão de usuários
+  
+- Mensagens Eletrônicas
+  
+- Pagamentos (WeChat Pay)
+  
+- Redes Social
+  
+- Consulta médica
+  
+- Envio de currículos
+  
+- Reserva de pacotes de viagem
+  
+- Tinder
+  
+- Chamar taxi
+  
+- Indentificação Facial
