@@ -282,3 +282,20 @@ WeChat começou como um clone de whatsapp e depois ganhou mais funcionalidades: 
 - Chamar taxi
   
 - Indentificação Facial
+
+### Casos de uso (UBER)
+
+https://www.youtube.com/watch?v=9YFCE594Fuo
+
+Movimentação do uber para tentar ser um superApp
+
+- Uber está aos poucos expandindo sua atuação em outros serviço no mercado ocidental (uber eats, uber connect...)
+
+- Aluguel de carros, reserva de viagens de trem e até aviões (reino unido)
+
+- Uber faz aquisição e venda de super apps em países do Oriente médio, Norte da África e Sudeste Asiático
+
+### SuperApp se relaciona com Tecnologia Sustentável?
+
+
+22:14
