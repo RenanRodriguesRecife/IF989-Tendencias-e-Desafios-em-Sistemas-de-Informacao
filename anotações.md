@@ -1,3 +1,23 @@
+Apresentação da disciplina
+
+Visão de mercado
+
+Parte 1: planejamento
+
+Parte 2: Protocolo de Busca
+
+Parte 3: Aplicando Filtros
+
+Parte 4: Qualificando os Estudos
+
+Parte 5: Seleção de Artigos para Análise
+
+Parte 6: Seleção de Artigos e Coleta de Evidências 
+
+Parte 7: Síntese de Dados
+
+------------------------------------------------------------
+
 Primeira rodada de seminários:
 
 ## Digital Immune System:
