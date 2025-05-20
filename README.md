@@ -27,4 +27,4 @@ Motivação
 
 “Foco central na Inteligência Artificial (IA) em todos os setores e uma necessidade de uma abordagem ainda mais agressiva à transformação digital para poder competir.”
 
-<img scr="./.assets/img1.JPG">
+<img src=".assets/img1.JPG">
