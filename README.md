@@ -2,7 +2,7 @@
 
 1 - Debate sobre artigos (previsões para 2022)
 
-2 - Seminário GARTET 2023
+2 - Seminário GARTET 2023 (todo ano o gartnet apresenta 10 tendencias)
 
 3 - Revisão sistemática (Planilha de 7 pontos) (Mostrar evidências)
 
