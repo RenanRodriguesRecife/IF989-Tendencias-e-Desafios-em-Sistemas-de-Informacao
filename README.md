@@ -13,4 +13,18 @@ Business Transformation - mudança da organização (como ela faz os processos e
   1 parte (Pesquisa ADROC)(informal) - relatório GARTET 2023
   
   1 parte pesquisa científica
-  
+
+--------------------------------------------------------------------
+
+Transformação Digital
+
+5 chaves para a transformação digital hoje em dia
+
+Fonte: CIO.com
+https://www.cio.com/article/3198121/whats-now-in-digital-transformation.html
+
+Motivação
+
+“Foco central na Inteligência Artificial (IA) em todos os setores e uma necessidade de uma abordagem ainda mais agressiva à transformação digital para poder competir.”
+
+<img scr=".assets/img1.jpg">
