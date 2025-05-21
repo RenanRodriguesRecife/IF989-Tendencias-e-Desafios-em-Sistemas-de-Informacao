@@ -61,3 +61,8 @@ Cliente: Inovação, Qualidade, Agilidade, Valor
 
 •A transformação digital envolve inovações em sistemas, processos organizacionais e modelos de negócio.
 
+A transformação envolve as 3 bases de SI. Processos, Pessoas e Tecnologia
+ 
+### Acompanhando Tendências Tecnológicas - Gartner Group
+
+40:20
